@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @celiawangjq
+- 👋 Hi, I’m @Jiaqi Wang
 - 👀 I’m interested in data analytics and data visualization
 - 🌱 I’m currently learning Buesiness Analytics in University of Miami
 - 💞️ I’m looking to collaborate on how to better visualize and interpret the data
